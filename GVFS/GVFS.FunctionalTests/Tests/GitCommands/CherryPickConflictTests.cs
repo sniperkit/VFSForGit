@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using NUnit.Framework;
 
 namespace GVFS.FunctionalTests.Tests.GitCommands

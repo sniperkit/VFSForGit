@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.Common;
 using Microsoft.Win32.SafeHandles;
 using System;

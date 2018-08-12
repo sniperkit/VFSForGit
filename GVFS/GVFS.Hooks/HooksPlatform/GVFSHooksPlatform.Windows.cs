@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 using GVFS.Platform.Windows;
 
 namespace GVFS.Hooks.HooksPlatform

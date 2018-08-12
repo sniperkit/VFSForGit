@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 using GVFS.Common;
 using GVFS.Common.Git;
 using GVFS.Platform.Mac;

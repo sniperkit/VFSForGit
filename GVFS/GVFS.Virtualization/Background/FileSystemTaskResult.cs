@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace GVFS.Virtualization.Background
 {
     public enum FileSystemTaskResult

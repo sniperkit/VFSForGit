@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.Virtualization.Projection;
 using System;
 using System.Collections.Generic;

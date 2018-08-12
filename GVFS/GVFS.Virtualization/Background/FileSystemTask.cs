@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using Newtonsoft.Json;
 
 namespace GVFS.Virtualization.Background

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using ProjFS;
 using System;
 using System.Collections.Concurrent;

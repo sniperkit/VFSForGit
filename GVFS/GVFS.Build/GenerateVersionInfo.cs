@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using Microsoft.Build.Framework;
 using Microsoft.Build.Utilities;
 using System.IO;

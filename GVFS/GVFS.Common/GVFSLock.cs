@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 using GVFS.Common.NamedPipes;
 using GVFS.Common.Tracing;
 using System;

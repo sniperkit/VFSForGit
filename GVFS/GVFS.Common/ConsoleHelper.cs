@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System;
 using System.IO;
 using System.Runtime.InteropServices;

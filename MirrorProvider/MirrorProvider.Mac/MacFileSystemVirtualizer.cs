@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using PrjFSLib.Mac;
 using System;
 using System.IO;

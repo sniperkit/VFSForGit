@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;

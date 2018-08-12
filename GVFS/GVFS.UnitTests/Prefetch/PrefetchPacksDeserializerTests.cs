@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.Common.NetworkStreams;
 using GVFS.Tests.Should;
 using NUnit.Framework;

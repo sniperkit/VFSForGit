@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.CommandLine;
 using GVFS.Common;
 using GVFS.Common.Git;

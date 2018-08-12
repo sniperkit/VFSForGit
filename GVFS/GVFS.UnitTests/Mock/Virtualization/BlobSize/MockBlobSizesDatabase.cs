@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.Common.Git;
 using GVFS.UnitTests.Mock.Common;
 using GVFS.Virtualization.BlobSize;

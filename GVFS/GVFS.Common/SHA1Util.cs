@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
