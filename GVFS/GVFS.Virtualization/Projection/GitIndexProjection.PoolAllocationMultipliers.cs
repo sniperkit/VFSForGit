@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace GVFS.Virtualization.Projection
 {
     public partial class GitIndexProjection

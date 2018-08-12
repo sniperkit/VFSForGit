@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace GVFS.Common.Tracing
 {
     // Copied from Microsoft.Diagnostics.Tracing.EventLevel

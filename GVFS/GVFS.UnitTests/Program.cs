@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 using GVFS.Tests;
 using GVFS.UnitTests.Category;
 using System;

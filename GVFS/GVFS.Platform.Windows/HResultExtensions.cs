@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using ProjFS;
 
 namespace GVFS.Platform.Windows

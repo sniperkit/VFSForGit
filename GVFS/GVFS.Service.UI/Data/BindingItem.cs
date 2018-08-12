@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Xml.Serialization;
 
 namespace GVFS.Service.UI.Data

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 using GVFS.Common.FileSystem;
 using GVFS.Common.Tracing;
 using Microsoft.Win32;

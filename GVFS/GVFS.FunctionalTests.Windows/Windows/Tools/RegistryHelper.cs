@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using Microsoft.Win32;
 
 namespace GVFS.FunctionalTests.Windows.Tools

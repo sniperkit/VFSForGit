@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.Common.Git;
 
 namespace GVFS.Virtualization.Projection

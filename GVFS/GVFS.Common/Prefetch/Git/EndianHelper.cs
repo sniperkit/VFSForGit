@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace GVFS.Common.Prefetch.Git
 {
     public static class EndianHelper

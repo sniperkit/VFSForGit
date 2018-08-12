@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace PrjFSLib.Mac
 {
     public class NotificationMapping

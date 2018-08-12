@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Runtime.InteropServices;
 
 namespace PrjFSLib.Mac.Interop

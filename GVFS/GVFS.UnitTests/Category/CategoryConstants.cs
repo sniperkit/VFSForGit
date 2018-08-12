@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace GVFS.UnitTests.Category
 {
     public static class CategoryConstants

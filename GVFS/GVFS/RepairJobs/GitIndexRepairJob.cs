@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using GVFS.Common;
 using GVFS.Common.Prefetch.Git;
 using GVFS.Common.Tracing;
